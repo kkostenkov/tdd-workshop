@@ -1,0 +1,18 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# Visual Studio
+/.vs/
+
+# Visual Studio Code
+/.vscode
+
+# Rider
+*/.idea/*
+JetBrains.meta
+*.DotSettings.user
+
+.DS_Store
